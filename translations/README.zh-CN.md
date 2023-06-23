@@ -112,3 +112,4 @@ github_user: YOUR-GITHUB-USERNAME
   - [Yahoo 日历](https://calendar.yahoo.com/?desc=&dur=&et=20220611T180000Z&in_loc=https%3A%2F%2Fwww.twitch.tv%2Fgithubeducation&st=20220611T160000Z&title=%F0%9F%8E%89%F0%9F%8E%8A%20GitHub%20Graduation%202022%20%F0%9F%8E%89%F0%9F%8E%8A&v=60)
 
 对 GitHub 毕业季活动有疑问? 在 [GitHub 社区讨论群](https://github.com/orgs/github-community/discussions/categories/github-education) 中提问！
+
